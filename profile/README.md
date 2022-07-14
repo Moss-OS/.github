@@ -13,7 +13,6 @@ Matt's Operating System Saga/Shenanigans? This is a play area to scratch an itch
 ## Resources
 - https://datasheets.raspberrypi.com/bcm2711/bcm2711-peripherals.pdf
 - [Arm A64 Instruction Set Architecture](https://developer.arm.com/documentation/ddi0596/2021-12/?lang=en)
-
 - https://jsandler18.github.io/ - This is old and targets 32bit machines
 - https://github.com/s-matyukevich/raspberry-pi-os
 - https://github.com/jsherman212/moss
