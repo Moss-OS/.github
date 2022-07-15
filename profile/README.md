@@ -1,6 +1,6 @@
 # Moss OS
 
-Matt's Operating System Saga/Shenanigans? This is a play area to scratch an itch.  Ultimaty an OS for Raspberry Pi 4.
+Matt's Operating System Saga/Shenanigans? This is a play area to scratch an itch.  Ultimaty an OS for Raspberry Pi 3 and 4.
 
 ## Tools
 1. [GNU Arm Embedded Toolchain](https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-a/downloads)
