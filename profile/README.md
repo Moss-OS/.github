@@ -7,9 +7,7 @@ Matt's Operating System Saga/Shenanigans? This is a play area to scratch an itch
    - ~~brew: `gcc-arm-embedded`~~ This is 32 bit only, 64bit not available on brew
    - Extract this [pre-built cross-compiler toolchain](https://github.com/thinkski/osx-arm-linux-toolchains/releases/download/8.3.0/aarch64-unknown-linux-gnu.tar.xz) into the build folder (should be located at `$PROJECT/build/aarch64-unkown-linux-gnu`)
 2. [QEMU](https://www.qemu.org/download/)
-3. - ~~brew: `qemu`~~ Version on brew does not support the Raspberry Pi 4
-   - Checkout this [patched fork](https://github.com/mcribbs/qemu-patch-raspberry4) and compile.
-   - Update QEMU_COMMAND in the Makefile with the location of your built binary
+   - brew: `qemu`
 ## Resources
 - https://datasheets.raspberrypi.com/bcm2711/bcm2711-peripherals.pdf
 - [Arm A64 Instruction Set Architecture](https://developer.arm.com/documentation/ddi0596/2021-12/?lang=en)
