@@ -9,13 +9,17 @@ Matt's Operating System Saga/Shenanigans? This is a play area to scratch an itch
 2. [QEMU](https://www.qemu.org/download/)
    - brew: `qemu`
 ## Resources
+- [Raspberry Pi documentation](https://github.com/raspberrypi/documentation/)
 - https://datasheets.raspberrypi.com/bcm2711/bcm2711-peripherals.pdf
 - [Arm A64 Instruction Set Architecture](https://developer.arm.com/documentation/ddi0596/2021-12/?lang=en)
-- https://jsandler18.github.io/ - This is old and targets 32bit machines
-- https://github.com/s-matyukevich/raspberry-pi-os
-- https://github.com/jsherman212/moss
-- https://www.youtube.com/watch?v=pd9AVmcRc6U&list=PLVxiWMqQvhg9FCteL7I0aohj1_YiUx1x8&index=1
-- https://github.com/raspberrypi/documentation/
+- [Raspberry Pi Linux kernek source](https://github.com/raspberrypi/linux)
+
+## Tutorials
+- [Sergey Matyukevich](https://github.com/s-matyukevich/raspberry-pi-os) - Targeting Pi 3
+- [Low Level Devel](https://www.youtube.com/watch?v=pd9AVmcRc6U&list=PLVxiWMqQvhg9FCteL7I0aohj1_YiUx1x8&index=11) - Video series parallels Sergey plus more (incl pi 4)
+- [Justin Sherman](https://github.com/jsherman212/moss) - arm64 OS for the Raspberry Pi 4 model B
+- [Jake Sandler](https://jsandler18.github.io/) - This is old and targets 32bit machines
+
 
 <!--
 
