@@ -21,7 +21,7 @@ Matt's Operating System Saga/Shenanigans? This is a play area to scratch an itch
 - [Jake Sandler](https://jsandler18.github.io/) - This is old and targets 32bit machines
 
 ## Other projects like this
-- [TauOS by Myles Lamb](https://github.com/mylesalamb/TauOS/tree/a3d654f17ee3a642c3f42d1f96f68a28c3ea38ef)
+- [TauOS by Myles Lamb](https://github.com/mylesalamb/TauOS/tree/a3d654f17ee3a642c3f42d1f96f68a28c3ea38ef) - C based operating system for the Raspberry Pi 4b, targeting arm64.
 - [Justin Sherman](https://github.com/jsherman212/moss) - arm64 OS for the Raspberry Pi 4 model B
 
 <!--
