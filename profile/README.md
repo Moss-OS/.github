@@ -17,9 +17,12 @@ Matt's Operating System Saga/Shenanigans? This is a play area to scratch an itch
 ## Tutorials
 - [Sergey Matyukevich](https://github.com/s-matyukevich/raspberry-pi-os) - Targeting Pi 3
 - [Low Level Devel](https://www.youtube.com/watch?v=pd9AVmcRc6U&list=PLVxiWMqQvhg9FCteL7I0aohj1_YiUx1x8&index=11) - Video series parallels Sergey plus more (incl pi 4)
-- [Justin Sherman](https://github.com/jsherman212/moss) - arm64 OS for the Raspberry Pi 4 model B
+
 - [Jake Sandler](https://jsandler18.github.io/) - This is old and targets 32bit machines
 
+## Other projects like this
+- [TauOS by Myles Lamb](https://github.com/mylesalamb/TauOS/tree/a3d654f17ee3a642c3f42d1f96f68a28c3ea38ef)
+- [Justin Sherman](https://github.com/jsherman212/moss) - arm64 OS for the Raspberry Pi 4 model B
 
 <!--
 
